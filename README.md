@@ -4,10 +4,11 @@
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/DataManagement-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=r&logoColor=white&color=blueviolet)
-![](https://img.shields.io/badge/DataManagement-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=blueviolet)
-
+![](https://img.shields.io/badge/Visualization-Tableau-informational?style=flat&logo=tableau&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Visualization-Looker-informational?style=flat&logo=looker&logoColor=white&color=blueviolet)
 
 ## &#x1f4c8; GitHub Stats
 <img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
