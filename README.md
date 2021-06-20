@@ -3,10 +3,10 @@
 
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=r&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=r&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=blueviolet)
 
 
 ## &#x1f4c8; GitHub Stats
@@ -23,10 +23,14 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WilliamMLT&repo=Monster.com-Webscraping-Project&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-
 <a href="https://github.com/WilliamMLT/AirBnb-Pricing-Prediction-using-Machine-Learning">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WilliamMLT&repo=AirBnb-Pricing-Prediction-using-Machine-Learning&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
+
+<a href="https://github.com/WilliamMLT/IBM-Data-Science-Capstone-Project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WilliamMLT&repo=IBM-Data-Science-Capstone-Project&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>    
+
 
 <!-- links to your social media accounts -->
 
