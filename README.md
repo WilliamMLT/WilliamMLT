@@ -9,7 +9,7 @@
 ![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=r&logoColor=white&color=5bff3b)
 ![](https://img.shields.io/badge/Visualization-Tableau-informational?style=flat&logo=tableau&logoColor=white&color=5bff3b)
 ![](https://img.shields.io/badge/Visualization-Looker-informational?style=flat&logo=looker&logoColor=white&color=5bff3b)
-
+![](https://img.shields.io/badge/Data-Excel-informational?style=flat&logo=excel&logoColor=white&color=5bff3b)
 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/WilliamMLT/WilliamMLT">
