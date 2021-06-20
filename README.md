@@ -1,5 +1,5 @@
 [![Header](https://raw.githubusercontent.com/WilliamMLT/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
-# Hello, folks! <img src="https://raw.githubusercontent.com/WilliamMLT/WilliamMLT/master/wave.gif" width="30px">
+# Hello, folks! <img src="https://raw.githubusercontent.com/WilliamMLT/WilliamMLT/master/wavegif.gif" width="30px">
 
 
 ### Hi there 👋
