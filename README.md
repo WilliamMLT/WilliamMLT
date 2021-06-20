@@ -9,6 +9,8 @@
 ![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=r&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Visualization-Tableau-informational?style=flat&logo=tableau&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Visualization-Looker-informational?style=flat&logo=looker&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=aws&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Cloud-GCP-informational?style=flat&logo=gcp&logoColor=white&color=blueviolet)
 
 ## &#x1f4c8; GitHub Stats
 <img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
