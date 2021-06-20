@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/WilliamMLT/WilliamMLT/master/readme_header.png "Header")](https://some-url.dev/)
+[![Header](https://raw.githubusercontent.com/WilliamMLT/WilliamMLT/master/Overlooking%20Bixby%20Bridge.jpg "Header")]
 # Hello, folks! <img src="https://raw.githubusercontent.com/WilliamMLT/WilliamMLT/master/wavegif.gif" width="30px">
 
 
