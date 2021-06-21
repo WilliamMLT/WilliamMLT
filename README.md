@@ -65,6 +65,7 @@ My name is William Ma and I am a recent graduate from the UC Davis MSBA. I am pa
 <!-- HTML Emojis: https://www.fileformat.info/index.htm -->
 <!-- Images:https://images.squarespace-cdn.com/content/v1/593df14037c58172ed4d5ac9/1497734101092-YV4MY8JSHRJ5KG3HF8T2/ke17ZwdGBToddI8pDm48kD1lqOUaUb3XVGEJXooVIpV7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTm-x5YhZWWrxeuengOpqI22v3cioHcE298dxVuwgtogKTlAO3Go-7WWAHEOXblqwdm/helloworld.png?format=1000w -->
 <!-- Shields: https://shields.io/ -->
+<!-- Counter: https://dev.to/ryanlanciaux/quick-github-profile-visit-counter-14en -->
 <!-- Awesome GitHub Profile README: https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 
 
