@@ -2,8 +2,8 @@
 ## Hey there! <img src="https://raw.githubusercontent.com/WilliamMLT/WilliamMLT/master/wavegif.gif" width="30px">
 My name is William Ma and I am a recent graduate from the UC Davis MSBA. I am passionate about problem-solving through an analytical lens and using data to communicate actionable insights and drive business value. I'm from Singapore, and currently living in the San Francisco Bay Area. You can find me on [![LinkedIn][2.1]][2]. You can also find some of my articles on [Medium](https://letianma.medium.com/)
 
-- 🔭 I’m currently working on improving my SQL skills
-- 🌱 I’m currently learning more on products
+- 🔭 I’m currently working on my SQL skills
+- 🌱 I’m currently learning more on product metrics
 - 👨‍💻 I’m looking for a job in the field of data analytics 
 
 ## 🔧 Technologies & Tools
