@@ -1,6 +1,6 @@
-<-- ![Header](https://raw.githubusercontent.com/WilliamMLT/WilliamMLT/master/Overlooking%20Bixby%20Bridge.jpg "Header")-->
+<!-- ![Header](https://raw.githubusercontent.com/WilliamMLT/WilliamMLT/master/Overlooking%20Bixby%20Bridge.jpg "Header")-->
 # &#x270d; Hey there! <img src="https://raw.githubusercontent.com/WilliamMLT/WilliamMLT/master/wavegif.gif" width="30px">
-My name is William Ma and I am a recent graduate from the UC Davis MSBA. I am passionate about problem-solving through an analytical lens and using data to communicate actionable insights and drive business value. I'm from Singapore, and currently living in the San Francisco Bay Area. You can find me on [![LinkedIn][3.2]][3] or [![Twitter][1.2]][1]. You can also find some of my articles on [Medium](https://letianma.medium.com/)
+My name is William Ma and I am a recent graduate from the UC Davis MSBA. I am passionate about problem-solving through an analytical lens and using data to communicate actionable insights and drive business value. I'm from Singapore, and currently living in the San Francisco Bay Area. You can find me on [![LinkedIn][3.2]][3]. You can also find some of my articles on [Medium](https://letianma.medium.com/)
 
 
 ## 🔧 Technologies & Tools
@@ -56,11 +56,11 @@ My name is William Ma and I am a recent graduate from the UC Davis MSBA. I am pa
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
-<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
 <!-- Emojis: https://emojipedia.org/emoji/ -->
 <!-- HTML Emojis: https://www.fileformat.info/index.htm -->
+<!-- Images:https://images.squarespace-cdn.com/content/v1/593df14037c58172ed4d5ac9/1497734101092-YV4MY8JSHRJ5KG3HF8T2/ke17ZwdGBToddI8pDm48kD1lqOUaUb3XVGEJXooVIpV7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTm-x5YhZWWrxeuengOpqI22v3cioHcE298dxVuwgtogKTlAO3Go-7WWAHEOXblqwdm/helloworld.png?format=1000w -->
 <!-- Shields: https://shields.io/ -->
-<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
+<!-- Awesome GitHub Profile README: https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 
 
 ### Hi there 👋
