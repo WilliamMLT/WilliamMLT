@@ -34,18 +34,17 @@ My name is William Ma and I am a recent graduate from the UC Davis MSBA. I am pa
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WilliamMLT&repo=IBM-Data-Science-Capstone-Project&title_color=ffffff&text_color=c9cacc&icon_color=5bff3b&bg_color=1d1f21" />
 </a>    
 
-
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=WilliamMLT.visitor-badge)
 
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/WilliamMLT/count.svg" alt="Visitor Count" />
+</p>
 
 <!-- links to social media icons -->
-
-
 <!-- icons without padding -->
 [2.1]: https://raw.githubusercontent.com/WilliamMLT/WilliamMLT/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 <!-- links to your social media accounts -->
-
 [1]: https://github.com/WilliamMLT
 [2]: https://www.linkedin.com/in/letian-ma/
 [3]: https://www.instagram.com/williammaletian/
