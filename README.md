@@ -3,8 +3,8 @@
 My name is William Ma and I am a recent graduate from the UC Davis MSBA. I am passionate about problem-solving through an analytical lens and using data to communicate actionable insights and drive business value. I'm from Singapore, and currently living in the San Francisco Bay Area. You can find me on [![LinkedIn][2.1]][2]. You can also find some of my articles on [Medium](https://letianma.medium.com/)
 
 - 🔭 I’m currently working on improving my SQL skills
-- 🌱 I’m currently learning ...
-- ![image](https://user-images.githubusercontent.com/47278811/122692973-aa06ee00-d1ec-11eb-8888-3a602323bb8b.png) I’m looking for a job in 
+- 🌱 I’m currently learning more on products
+- 👨‍💻 I’m looking for a job in the field of data analytics 
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=5bff3b)
