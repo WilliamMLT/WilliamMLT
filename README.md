@@ -1,7 +1,10 @@
 <!-- ![Header](https://raw.githubusercontent.com/WilliamMLT/WilliamMLT/master/Overlooking%20Bixby%20Bridge.jpg "Header")-->
 # &#x270d; Hey there! <img src="https://raw.githubusercontent.com/WilliamMLT/WilliamMLT/master/wavegif.gif" width="30px">
-My name is William Ma and I am a recent graduate from the UC Davis MSBA. I am passionate about problem-solving through an analytical lens and using data to communicate actionable insights and drive business value. I'm from Singapore, and currently living in the San Francisco Bay Area. You can find me on [![LinkedIn][3.2]][3]. You can also find some of my articles on [Medium](https://letianma.medium.com/)
+My name is William Ma and I am a recent graduate from the UC Davis MSBA. I am passionate about problem-solving through an analytical lens and using data to communicate actionable insights and drive business value. I'm from Singapore, and currently living in the San Francisco Bay Area. You can find me on [![LinkedIn][2.1]][2]. You can also find some of my articles on [Medium](https://letianma.medium.com/)
 
+- 🔭 I’m currently working on improving my SQL skills
+- 🌱 I’m currently learning ...
+- ![image](https://user-images.githubusercontent.com/47278811/122692973-aa06ee00-d1ec-11eb-8888-3a602323bb8b.png) I’m looking for a job in 
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=5bff3b)
@@ -34,21 +37,14 @@ My name is William Ma and I am a recent graduate from the UC Davis MSBA. I am pa
 
 <!-- links to social media icons -->
 
-<!-- icons with padding -->
-
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
 
 <!-- icons without padding -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[2.1]: https://raw.githubusercontent.com/WilliamMLT/WilliamMLT/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 <!-- links to your social media accounts -->
 
-[1]: https://github.com/MartinHeinz
-[2]: https://www.linkedin.com/in/heinz-martin/
+[1]: https://github.com/WilliamMLT
+[2]: https://www.linkedin.com/in/letian-ma/
 [3]: https://www.instagram.com/williammaletian/
 
 
