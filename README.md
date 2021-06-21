@@ -6,6 +6,8 @@ My name is William Ma and I am a recent graduate from the UC Davis MSBA. I am pa
 - 🌱 I’m currently learning more on product metrics
 - 👨‍💻 I’m looking for a job in the field of data analytics 
 
+
+
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=5bff3b)
 ![](https://img.shields.io/badge/DataManagement-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=5bff3b)
@@ -13,6 +15,8 @@ My name is William Ma and I am a recent graduate from the UC Davis MSBA. I am pa
 ![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=r&logoColor=white&color=5bff3b)
 ![](https://img.shields.io/badge/Visualization-Tableau-informational?style=flat&logo=tableau&logoColor=white&color=5bff3b)
 ![](https://img.shields.io/badge/Visualization-Looker-informational?style=flat&logo=looker&logoColor=white&color=5bff3b)
+
+
 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/WilliamMLT/WilliamMLT">
