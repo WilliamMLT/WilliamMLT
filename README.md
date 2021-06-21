@@ -35,7 +35,7 @@ My name is William Ma and I am a recent graduate from the UC Davis MSBA. I am pa
 </a>    
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=WilliamMLT.visitor-badge)
 
 
 <!-- links to social media icons -->
