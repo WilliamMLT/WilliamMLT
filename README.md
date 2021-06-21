@@ -34,10 +34,10 @@ My name is William Ma and I am a recent graduate from the UC Davis MSBA. I am pa
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WilliamMLT&repo=IBM-Data-Science-Capstone-Project&title_color=ffffff&text_color=c9cacc&icon_color=5bff3b&bg_color=1d1f21" />
 </a>    
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=WilliamMLT.visitor-badge)
+<!--![visitors](https://visitor-badge.glitch.me/badge?page_id=WilliamMLT.visitor-badge)-->
 
 <p align="center"> 
-  You are visitor:
+  <b>Visitor Count:</b>
   <img src="https://profile-counter.glitch.me/WilliamMLT/count.svg" alt="Visitor Count" />
 </p>
 
