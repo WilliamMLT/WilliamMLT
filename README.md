@@ -1,4 +1,4 @@
-<!-- ![Header](https://raw.githubusercontent.com/WilliamMLT/WilliamMLT/master/Overlooking%20Bixby%20Bridge.jpg "Header")-->
+![Header](https://raw.githubusercontent.com/WilliamMLT/WilliamMLT/master/helloworld.png "Header")
 # &#x270d; Hey there! <img src="https://raw.githubusercontent.com/WilliamMLT/WilliamMLT/master/wavegif.gif" width="30px">
 My name is William Ma and I am a recent graduate from the UC Davis MSBA. I am passionate about problem-solving through an analytical lens and using data to communicate actionable insights and drive business value. I'm from Singapore, and currently living in the San Francisco Bay Area. You can find me on [![LinkedIn][2.1]][2]. You can also find some of my articles on [Medium](https://letianma.medium.com/)
 
