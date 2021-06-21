@@ -1,6 +1,6 @@
-![Header](https://raw.githubusercontent.com/WilliamMLT/WilliamMLT/master/helloworld.png "Header")
+[![Header](https://raw.githubusercontent.com/WilliamMLT/WilliamMLT/master/helloworld.png "Header")](https://williammlt.github.io/)
 ## Hey there! <img src="https://raw.githubusercontent.com/WilliamMLT/WilliamMLT/master/wavegif.gif" width="30px">
-My name is William Ma and I am a recent graduate from the UC Davis MSBA. I am passionate about problem-solving through an analytical lens and using data to communicate actionable insights and drive business value. I'm from Singapore, and currently living in the San Francisco Bay Area. You can find me on [![LinkedIn][2.1]][2]. You can also find some of my articles on [Medium](https://letianma.medium.com/)
+My name is William Ma and I am a recent graduate from the UC Davis MSBA. I am passionate about problem-solving through an analytical lens and using data to communicate actionable insights and drive business value. I'm from Singapore, and currently living in the San Francisco Bay Area. You can find me on [![LinkedIn][2.1]][2]. You can also find my portfolio on my website at [williammlt.github.io](https://williammlt.github.io/) and articles on [Medium](https://letianma.medium.com/).
 
 - 🔭 I’m currently working on my SQL skills
 - 🌱 I’m currently learning more on product metrics
