@@ -1,5 +1,6 @@
-[![Header](https://raw.githubusercontent.com/WilliamMLT/WilliamMLT/master/Overlooking%20Bixby%20Bridge.jpg "Header")]
-# Hello, folks! <img src="https://raw.githubusercontent.com/WilliamMLT/WilliamMLT/master/wavegif.gif" width="30px">
+<-- ![Header](https://raw.githubusercontent.com/WilliamMLT/WilliamMLT/master/Overlooking%20Bixby%20Bridge.jpg "Header")-->
+# &#x270d; Hey there! <img src="https://raw.githubusercontent.com/WilliamMLT/WilliamMLT/master/wavegif.gif" width="30px">
+My name is William Ma and I am a recent graduate from the UC Davis MSBA. I am passionate about problem-solving through an analytical lens and using data to communicate actionable insights and drive business value. I'm from Singapore, and currently living in the San Francisco Bay Area. You can find me on [![LinkedIn][3.2]][3] or [![Twitter][1.2]][1]. You can also find some of my articles on [Medium](https://letianma.medium.com/)
 
 
 ## 🔧 Technologies & Tools
@@ -15,7 +16,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamMLT&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=5bff3b&bg_color=1d1f21&langs_count=3" />
 </a>
 <a href="https://github.com/WilliamMLT/WilliamMLT">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=WilliamMLT&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=5bff3b&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=WilliamMLT&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=5bff3b&bg_color=1d1f21" alt="William's GitHub Stats" />
 </a>
 
 <a href="https://github.com/WilliamMLT/Monster.com-Webscraping-Project">
@@ -30,6 +31,19 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WilliamMLT&repo=IBM-Data-Science-Capstone-Project&title_color=ffffff&text_color=c9cacc&icon_color=5bff3b&bg_color=1d1f21" />
 </a>    
 
+
+<!-- links to social media icons -->
+
+<!-- icons with padding -->
+
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+
+<!-- icons without padding -->
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
+[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 <!-- links to your social media accounts -->
 
